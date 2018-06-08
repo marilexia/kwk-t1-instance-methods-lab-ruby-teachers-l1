@@ -4,4 +4,5 @@ class Dog
   end
 end
 
-Dog.bark
+buddy = Dog.new
+buddy = Dog.bark
