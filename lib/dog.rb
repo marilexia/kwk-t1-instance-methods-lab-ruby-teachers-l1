@@ -7,7 +7,9 @@ class Dog
   def sit
     puts "The Dog is sitting."
   end
+
 end
 
 buddy = Dog.new
 buddy.bark
+buddy.sit
