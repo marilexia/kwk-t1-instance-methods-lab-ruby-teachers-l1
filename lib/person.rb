@@ -9,3 +9,7 @@ class Person
   end
 
 end
+
+faith = Person.new
+faith.talk
+faith.walk
